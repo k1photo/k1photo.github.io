@@ -1,7 +1,0 @@
----
-layout: default
-date: 2022-02-25 23:17:36
-photo: IMG_1.png
-caption_header: IMG_1
-caption: 2022-02-25 23:17:36
----
