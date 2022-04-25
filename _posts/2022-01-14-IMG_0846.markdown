@@ -2,6 +2,6 @@
 layout: default
 date: 2022-01-14 16:01:31
 photo: IMG_0846.png
-caption_header: IMG_0846
-caption: 2022-01-14 16:01:31
+caption_header: 2022-01-14
+caption: IMG_0846
 ---

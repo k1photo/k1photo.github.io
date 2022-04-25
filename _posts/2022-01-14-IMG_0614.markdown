@@ -2,6 +2,6 @@
 layout: default
 date: 2022-01-14 14:53:56
 photo: IMG_0614.png
-caption_header: IMG_0614
-caption: 2022-01-14 14:53:56
+caption_header: 2022-01-14
+caption: IMG_0614
 ---

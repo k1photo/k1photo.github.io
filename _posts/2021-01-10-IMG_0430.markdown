@@ -2,7 +2,7 @@
 layout: default
 date: 2021-01-10 15:47:17
 photo: IMG_0430.png
-caption_header: IMG_0430
-caption: 2021-01-10 15:47:17
+caption_header: 2021-01-10
+caption: IMG_0430
 ---
 A hummingbird in my backyard!
