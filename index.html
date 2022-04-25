@@ -25,7 +25,7 @@ layout: default
 
     	<section class="slideshow">
         	<ul>
-        		{% for post in site.posts %}
+        		{% for post in site.posts limit: 10 %}
         		<li>
         			<figure>
         				<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="{{ post.caption_header}} {{ post.caption }}"/>
