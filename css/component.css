@@ -178,7 +178,7 @@
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
-    color: #00ff00;
+    color: #007fff;
 }
 
 .slideshow nav span.nav-next {
@@ -189,7 +189,7 @@
 	top: 0;
 	right: 0;
 	padding: 0.5em 1em;
-	color: #fff;
+	color: #007fff;
 }
 
 .icon:before,
@@ -226,7 +226,7 @@ span.nav-close:before {
 	font-size: 8px;
 	padding-top: 20px;
 	text-transform: uppercase;
-	color: #fff;
+	color: #007fff;
 	letter-spacing: 1px;
 	text-align: center;
 }
