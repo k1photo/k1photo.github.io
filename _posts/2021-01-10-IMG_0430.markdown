@@ -5,4 +5,3 @@ photo: IMG_0430.png
 caption_header: 2021-01-10
 caption: IMG_0430
 ---
-A hummingbird in my backyard!
