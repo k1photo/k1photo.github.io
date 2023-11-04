@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2023-10-29 15:50:00
+photo: IMG_7490.png
+caption_header: 2023-10-29
+caption: IMG_7490
+---
